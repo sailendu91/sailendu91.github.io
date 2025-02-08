@@ -21,7 +21,7 @@ repository               : "sailendu91/sailendu91.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo_sb.jpg"
+  avatar           : "Profile_photo_sb.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
