@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sailendu Biswal"
+title                    : "Sailendu's Homepage"
 title_separator          : "-"
 name                     : &name "Sailendu Biswal"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "sailendu91/sailendu91.github.io"
 author:
   # Biographic information
   avatar           : "Profile_photo_sb.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Sailendu Biswal"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a Mechanical Engineer with extensive experience in finite element analysis (FEA), structural mechanics, and product development. My expertise spans fracture mechanics, fatigue crack propagation, and experimental & numerical analysis of mechanical components in diverse industries, including automotive, wind energy, and manufacturing."
   location         : "India"
-  employer         : "Red Brick University"
+  employer         : "3M India"
   uri              : # URL
   email            : "none@example.org" 
 
