@@ -21,7 +21,7 @@ repository               : "sailendu91/sailendu91.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_photo_sb.jpg"
+  avatar           : "Profile_pic_new.jpg"
   name             : "Sailendu Biswal"
   pronouns         : # example: "she/her"  
   bio              : "I am a Mechanical Engineer with extensive experience in finite element analysis (FEA), structural mechanics, and product development. My expertise spans fracture mechanics, fatigue crack propagation, and experimental & numerical analysis of mechanical components in diverse industries, including automotive, wind energy, and manufacturing."
