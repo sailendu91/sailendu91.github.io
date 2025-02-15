@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-ABOUT ME:
  I am a Mechanical Engineer with extensive experience in finite element analysis (FEA), structural mechanics, and product development. My expertise spans fracture mechanics, fatigue crack propagation, and experimental & numerical analysis of mechanical components in diverse industries, including automotive, wind energy, and adhesives & films.
 
 Currently, I work as an Advanced Application Engineer at 3M India, focusing on product solutions for ePowertrain, and bonding & sealing technologies for automotive applications. My role involves technical collaboration with customers, application development, and working closely with global teams to drive innovative solutions for automotive subsystems such as Exterior, Interior, Body-in-White, ePowertrain, and Exhaust systems.
