@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am a Mechanical Engineer with extensive experience in finite element analysis (FEA), structural mechanics, and product development. My expertise spans fracture mechanics, fatigue crack propagation, and experimental & numerical analysis of mechanical components in diverse industries, including automotive, wind energy, and manufacturing."
   location         : "India"
-  employer         : "3M India"
+  #employer         : "3M India"
   uri              : # URL
   email            : "none@example.org" 
 
